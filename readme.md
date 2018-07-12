@@ -20,6 +20,4 @@ Settings
 
 Results in a .csv
 
-    ```
-    scrapy crawl mmscraper -o result.csv
-    ```
+    ```scrapy crawl mmscraper -o result.csv```
